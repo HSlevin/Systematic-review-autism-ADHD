@@ -1,0 +1,1 @@
+R code utilised for the manuscript 'Childhood, adolescent and young adult cancer and the prevalence of diagnosed autism or attention deficit hyperactivity disorder: A systematic review and meta-analysis'. This is due for submission to the European Journal of Cancer and will await first editorial decision.
